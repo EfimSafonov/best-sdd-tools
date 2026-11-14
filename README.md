@@ -4,6 +4,8 @@
 
 [Spec-driven development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) means writing the specification first and letting it drive the code, tests and review. With AI coding agents it is the difference between guessing and engineering.
 
+📄 [Download as PDF](best-sdd-tools.pdf)
+
 **Inclusion bar:** an established product from a known company, or an open-source project with 10k+ GitHub stars and active maintenance. Long-tail lists already exist (see [Related](#related)).
 
 ## Contents
